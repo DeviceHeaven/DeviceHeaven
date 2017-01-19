@@ -1,12 +1,12 @@
 # DeviceHeavenLibrary
 Biblioteca para Arduino: Device Heaven
 
-Arduino Mega e Due:
-Comunicação com ESP8266 utilizando porta "Serial2", pinos 16(Tx2) e 17(Rx2).
+Placas: Uno, Mega, Due, Nano...
 
-No arquivo "deviceheaven.cpp", na pasta "C:\Users\User\Documents\Arduino\libraries\DeviceHeaven".
+Shields: Ethernet W5100
 
-Para Arduino Uno:
+Módulos: WiFi ESP8266
 
-Comunicação com ESP8266 utilizando pinos digitais 2 e 3 (você pode mudar) a partir de biblioteca SoftwareSerial "Serial2".
-SoftwareSerial Serial2(2,3);  // Rx = pino 2; Tx = pino 3;
+Essa biblioteca apresenta exemplos simples utilizando o Shield Ethernet W5100 e o Módulo WiFi ESP8266.
+
+Em caso de dúvidas envie e-mail para suporte@deviceheaven.com.
