@@ -16,10 +16,13 @@ baud_uno_def	KEYWORD2
 baud_mega_cur	KEYWORD2
 baud_mega_cur	KEYWORD2
 Serial2_start	KEYWORD2
+Ethernet_start	KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
+deviceheaven	LITERAL1
 SSID	LITERAL1
 PASS	LITERAL1
 TOKEN	LITERAL1
 LEITURA_ID	LITERAL1
+IP	LITERAL1
