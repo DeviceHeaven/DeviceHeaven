@@ -1,6 +1,8 @@
 /* Biblioteca Device Heaven para Arduino
    Compatível com Arduino UNO, MEGA, DUE...
-   Módulos: WiFi ESP8266 e Ethernet W5100   */
+   Módulos: WiFi ESP8266 e Ethernet W5100  
+   Data: 26-01/17
+   */
 #include "deviceheaven.h"
 
 #define debug false                   // Debug da comunicação serial para verificar resposta do ESP
