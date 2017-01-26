@@ -18,4 +18,3 @@ void Ethernet_start(uint8_t *mac);
 void Ethernet_start(uint8_t *mac, IPAddress ip);
 
 void Serial2_start();
-
